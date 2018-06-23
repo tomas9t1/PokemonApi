@@ -1,0 +1,85 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/PokemonApi.DataApi.csproj",
+    "projectName": "PokemonApi.DataApi",
+    "projectPath": "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/PokemonApi.DataApi.csproj",
+    "outputPath": "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/PokemonApi.DTO.csproj": {
+            "projectPath": "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/PokemonApi.DTO.csproj"
+          },
+          "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.Repository.MongoDB/PokemonApi.Repository.MongoDB.csproj": {
+            "projectPath": "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.Repository.MongoDB/PokemonApi.Repository.MongoDB.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "AutoMapper": {
+          "target": "Package",
+          "version": "[7.0.1, )"
+        },
+        "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[4.0.1, )"
+        },
+        "CsvHelper": {
+          "target": "Package",
+          "version": "[7.1.1, )"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "[2.0.5, )"
+        },
+        "Microsoft.AspNetCore.StaticFiles": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[2.5.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  },
+  "runtimes": {
+    "win": {
+      "#import": []
+    },
+    "win-x64": {
+      "#import": []
+    },
+    "win-x86": {
+      "#import": []
+    }
+  }
+}

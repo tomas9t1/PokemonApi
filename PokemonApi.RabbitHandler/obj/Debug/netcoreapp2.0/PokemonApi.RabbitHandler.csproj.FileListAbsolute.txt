@@ -1,0 +1,9 @@
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/bin/Debug/netcoreapp2.0/PokemonApi.RabbitHandler.deps.json
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/bin/Debug/netcoreapp2.0/PokemonApi.RabbitHandler.dll
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/bin/Debug/netcoreapp2.0/PokemonApi.RabbitHandler.pdb
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/obj/Debug/netcoreapp2.0/PokemonApi.RabbitHandler.csprojResolveAssemblyReference.cache
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/obj/Debug/netcoreapp2.0/PokemonApi.RabbitHandler.csproj.CoreCompileInputs.cache
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/obj/Debug/netcoreapp2.0/PokemonApi.RabbitHandler.AssemblyInfoInputs.cache
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/obj/Debug/netcoreapp2.0/PokemonApi.RabbitHandler.AssemblyInfo.cs
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/obj/Debug/netcoreapp2.0/PokemonApi.RabbitHandler.dll
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/obj/Debug/netcoreapp2.0/PokemonApi.RabbitHandler.pdb

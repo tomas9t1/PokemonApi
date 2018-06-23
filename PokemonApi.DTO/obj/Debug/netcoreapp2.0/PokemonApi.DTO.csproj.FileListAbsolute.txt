@@ -1,0 +1,9 @@
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/bin/Debug/netcoreapp2.0/PokemonApi.DTO.deps.json
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/bin/Debug/netcoreapp2.0/PokemonApi.DTO.dll
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/bin/Debug/netcoreapp2.0/PokemonApi.DTO.pdb
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/obj/Debug/netcoreapp2.0/PokemonApi.DTO.csprojResolveAssemblyReference.cache
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/obj/Debug/netcoreapp2.0/PokemonApi.DTO.csproj.CoreCompileInputs.cache
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/obj/Debug/netcoreapp2.0/PokemonApi.DTO.AssemblyInfoInputs.cache
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/obj/Debug/netcoreapp2.0/PokemonApi.DTO.AssemblyInfo.cs
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/obj/Debug/netcoreapp2.0/PokemonApi.DTO.dll
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/obj/Debug/netcoreapp2.0/PokemonApi.DTO.pdb

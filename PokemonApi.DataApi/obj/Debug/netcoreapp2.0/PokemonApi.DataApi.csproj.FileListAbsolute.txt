@@ -1,0 +1,15 @@
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/bin/Debug/netcoreapp2.0/PokemonApi.DataApi.deps.json
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/bin/Debug/netcoreapp2.0/PokemonApi.DataApi.runtimeconfig.json
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/bin/Debug/netcoreapp2.0/PokemonApi.DataApi.runtimeconfig.dev.json
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/bin/Debug/netcoreapp2.0/PokemonApi.DataApi.dll
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/bin/Debug/netcoreapp2.0/PokemonApi.DataApi.pdb
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/obj/Debug/netcoreapp2.0/PokemonApi.DataApi.csprojResolveAssemblyReference.cache
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/obj/Debug/netcoreapp2.0/PokemonApi.DataApi.csproj.CoreCompileInputs.cache
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/obj/Debug/netcoreapp2.0/PokemonApi.DataApi.AssemblyInfoInputs.cache
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/obj/Debug/netcoreapp2.0/PokemonApi.DataApi.AssemblyInfo.cs
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/obj/Debug/netcoreapp2.0/PokemonApi.DataApi.dll
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/obj/Debug/netcoreapp2.0/PokemonApi.DataApi.pdb
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/bin/Debug/netcoreapp2.0/PokemonApi.DTO.dll
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/bin/Debug/netcoreapp2.0/PokemonApi.DTO.pdb
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/bin/Debug/netcoreapp2.0/PokemonApi.Repository.MongoDB.dll
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/bin/Debug/netcoreapp2.0/PokemonApi.Repository.MongoDB.pdb

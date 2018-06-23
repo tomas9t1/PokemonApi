@@ -1,0 +1,51 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.Repository.MongoDB/PokemonApi.Repository.MongoDB.csproj",
+    "projectName": "PokemonApi.Repository.MongoDB",
+    "projectPath": "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.Repository.MongoDB/PokemonApi.Repository.MongoDB.csproj",
+    "outputPath": "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.Repository.MongoDB/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/PokemonApi.DTO.csproj": {
+            "projectPath": "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/PokemonApi.DTO.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "MongoDB.Driver": {
+          "target": "Package",
+          "version": "[2.7.0-beta0001, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

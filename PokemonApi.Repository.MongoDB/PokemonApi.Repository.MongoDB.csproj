@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.7.0-beta0001" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PokemonApi.DTO\PokemonApi.DTO.csproj">
+      <Project>{0E94B7E5-986C-4F78-91DC-465F68846488}</Project>
+      <Name>PokemonApi.DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>
