@@ -9,7 +9,7 @@ namespace PokemonApi.Repository.MongoDB
 
         public MongoContext()
         {
-            var client = new MongoClient("mongodb://localhost:27017");
+            var client = new MongoClient("mongodb://172.18.0.1:27017");
             _database = client.GetDatabase("Pokedex");
         }
 

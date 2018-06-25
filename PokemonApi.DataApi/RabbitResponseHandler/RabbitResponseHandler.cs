@@ -16,7 +16,7 @@ namespace PokemonApi.DataApi.RabbitResponseHandler
         public RabbitResponseHandler(IPokemonDataService pokemonDataService)
         {
             _pokemonDataService = pokemonDataService;
-            _bus = RabbitHutch.CreateBus("host=localhost");
+            _bus = RabbitHutch.CreateBus("host=172.18.0.2");
         }
 
         public Task InitiateListener()
