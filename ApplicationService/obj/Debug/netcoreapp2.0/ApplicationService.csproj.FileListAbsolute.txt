@@ -1,0 +1,13 @@
+/Users/tomas/RiderProjects/PokemonApi/ApplicationService/bin/Debug/netcoreapp2.0/ApplicationService.deps.json
+/Users/tomas/RiderProjects/PokemonApi/ApplicationService/bin/Debug/netcoreapp2.0/ApplicationService.dll
+/Users/tomas/RiderProjects/PokemonApi/ApplicationService/bin/Debug/netcoreapp2.0/ApplicationService.pdb
+/Users/tomas/RiderProjects/PokemonApi/ApplicationService/bin/Debug/netcoreapp2.0/PokemonApi.DTO.dll
+/Users/tomas/RiderProjects/PokemonApi/ApplicationService/bin/Debug/netcoreapp2.0/PokemonApi.RabbitHandler.dll
+/Users/tomas/RiderProjects/PokemonApi/ApplicationService/bin/Debug/netcoreapp2.0/PokemonApi.DTO.pdb
+/Users/tomas/RiderProjects/PokemonApi/ApplicationService/bin/Debug/netcoreapp2.0/PokemonApi.RabbitHandler.pdb
+/Users/tomas/RiderProjects/PokemonApi/ApplicationService/obj/Debug/netcoreapp2.0/ApplicationService.csprojResolveAssemblyReference.cache
+/Users/tomas/RiderProjects/PokemonApi/ApplicationService/obj/Debug/netcoreapp2.0/ApplicationService.csproj.CoreCompileInputs.cache
+/Users/tomas/RiderProjects/PokemonApi/ApplicationService/obj/Debug/netcoreapp2.0/ApplicationService.AssemblyInfoInputs.cache
+/Users/tomas/RiderProjects/PokemonApi/ApplicationService/obj/Debug/netcoreapp2.0/ApplicationService.AssemblyInfo.cs
+/Users/tomas/RiderProjects/PokemonApi/ApplicationService/obj/Debug/netcoreapp2.0/ApplicationService.dll
+/Users/tomas/RiderProjects/PokemonApi/ApplicationService/obj/Debug/netcoreapp2.0/ApplicationService.pdb

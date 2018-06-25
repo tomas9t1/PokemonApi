@@ -1,28 +1,36 @@
-﻿using System.Threading.Tasks;
-using RabbitMQ.Client;
+﻿using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using EasyNetQ;
+using Newtonsoft.Json;
+using Pokemon.RabbitHandler;
+using PokemonApi.DTO;
 
-namespace Pokemon.RabbitHandler
+namespace PokemonApi.RabbitHandler
 {
     public class RabbitClient : IRabbitClient
     {
-        public async Task CreateConnection()
+        private readonly IBus bus;
+        public RabbitClient()
+        {
+            bus = RabbitHutch.CreateBus("host=localhost");
+        }
+        
+        public BaseResponse<string> SendRequest(BaseRequest<string> request)
         {
             try
             {
-                var factory = new ConnectionFactory();
-// "guest"/"guest" by default, limited to localhost connections
-                factory.UserName = "guest";
-                factory.Password = "guest";
-                factory.VirtualHost = "/";
-                factory.HostName = "localhost";
-                factory.Port = 5672;
-
-                IConnection conn = factory.CreateConnection();
+                return bus.Request<BaseRequest<string>, BaseResponse<string>>(request);
             }
             catch
             {
-                return;
+                return new BaseResponse<string>();
             }
         }
+    }
+
+    public class MyMessage
+    {
+        public string Text { get; set; }
     }
 }

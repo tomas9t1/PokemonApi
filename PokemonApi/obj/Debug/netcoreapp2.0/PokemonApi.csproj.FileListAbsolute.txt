@@ -11,3 +11,7 @@
 /Users/tomas/RiderProjects/PokemonApi/PokemonApi/obj/Debug/netcoreapp2.0/PokemonApi.AssemblyInfo.cs
 /Users/tomas/RiderProjects/PokemonApi/PokemonApi/obj/Debug/netcoreapp2.0/PokemonApi.dll
 /Users/tomas/RiderProjects/PokemonApi/PokemonApi/obj/Debug/netcoreapp2.0/PokemonApi.pdb
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi/bin/Debug/netcoreapp2.0/PokemonApi.DTO.dll
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi/bin/Debug/netcoreapp2.0/PokemonApi.DTO.pdb
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi/bin/Debug/netcoreapp2.0/ApplicationService.dll
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi/bin/Debug/netcoreapp2.0/ApplicationService.pdb

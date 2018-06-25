@@ -13,3 +13,5 @@
 /Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/bin/Debug/netcoreapp2.0/PokemonApi.DTO.pdb
 /Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/bin/Debug/netcoreapp2.0/PokemonApi.Repository.MongoDB.dll
 /Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/bin/Debug/netcoreapp2.0/PokemonApi.Repository.MongoDB.pdb
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/bin/Debug/netcoreapp2.0/PokemonApi.RabbitHandler.dll
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DataApi/bin/Debug/netcoreapp2.0/PokemonApi.RabbitHandler.pdb

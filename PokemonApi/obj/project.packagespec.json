@@ -15,6 +15,9 @@
     "frameworks": {
       "netcoreapp2.0": {
         "projectReferences": {
+          "/Users/tomas/RiderProjects/PokemonApi/ApplicationService/ApplicationService.csproj": {
+            "projectPath": "/Users/tomas/RiderProjects/PokemonApi/ApplicationService/ApplicationService.csproj"
+          },
           "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/PokemonApi.RabbitHandler.csproj": {
             "projectPath": "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/PokemonApi.RabbitHandler.csproj"
           }

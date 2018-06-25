@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PokemonApi.DTO\PokemonApi.DTO.csproj">
+      <Project>{0E94B7E5-986C-4F78-91DC-465F68846488}</Project>
+      <Name>PokemonApi.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PokemonApi.RabbitHandler\PokemonApi.RabbitHandler.csproj">
+      <Project>{2E06B7FA-8F5F-45A6-8970-355C3BE38083}</Project>
+      <Name>PokemonApi.RabbitHandler</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

@@ -14,6 +14,10 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.2" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ApplicationService\ApplicationService.csproj">
+      <Project>{7404B87C-3336-4DC2-93CB-531C86022B52}</Project>
+      <Name>ApplicationService</Name>
+    </ProjectReference>
     <ProjectReference Include="..\PokemonApi.RabbitHandler\PokemonApi.RabbitHandler.csproj">
       <Project>{2E06B7FA-8F5F-45A6-8970-355C3BE38083}</Project>
       <Name>PokemonApi.RabbitHandler</Name>

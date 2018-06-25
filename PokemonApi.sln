@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonApi.DTO", "PokemonAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonApi.Repository.MongoDB", "PokemonApi.Repository.MongoDB\PokemonApi.Repository.MongoDB.csproj", "{6387C278-F565-461F-9471-990132594EEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationService", "ApplicationService\ApplicationService.csproj", "{7404B87C-3336-4DC2-93CB-531C86022B52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonAPI.Tests", "PokemonAPI.Tests\PokemonAPI.Tests.csproj", "{0695C852-11CC-472F-9751-D752138BBBF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{6387C278-F565-461F-9471-990132594EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6387C278-F565-461F-9471-990132594EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6387C278-F565-461F-9471-990132594EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7404B87C-3336-4DC2-93CB-531C86022B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7404B87C-3336-4DC2-93CB-531C86022B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7404B87C-3336-4DC2-93CB-531C86022B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7404B87C-3336-4DC2-93CB-531C86022B52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0695C852-11CC-472F-9751-D752138BBBF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0695C852-11CC-472F-9751-D752138BBBF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0695C852-11CC-472F-9751-D752138BBBF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0695C852-11CC-472F-9751-D752138BBBF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

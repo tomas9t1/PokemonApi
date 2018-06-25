@@ -14,7 +14,11 @@
     ],
     "frameworks": {
       "netcoreapp2.0": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/PokemonApi.DTO.csproj": {
+            "projectPath": "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/PokemonApi.DTO.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
@@ -26,15 +30,15 @@
   "frameworks": {
     "netcoreapp2.0": {
       "dependencies": {
+        "EasyNetQ": {
+          "target": "Package",
+          "version": "[3.1.0, )"
+        },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",
           "version": "[2.0.0, )",
           "autoReferenced": true
-        },
-        "RabbitMQ.Client": {
-          "target": "Package",
-          "version": "[5.1.0, )"
         }
       },
       "imports": [

@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32b15f46-d0a1-45e0-b7bf-e272c70213f6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Dockerfile_PokemonAPI" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PokemonDataService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/ApplicationService/PokemonDataService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+              <folding>
+                <marker date="1529876899715" expanded="false" signature="6:219" ph="..." />
+                <marker date="1529876899715" expanded="true" signature="262:7620" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="322:7618" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="523:625" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="697:873" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="952:1307" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="1401:1607" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="1685:1870" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="1956:2142" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="2244:2440" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="2522:5307" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="2714:5259" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="5392:5973" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="5585:5877" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="5656:5860" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="6073:7612" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="6353:7576" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="6540:7562" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="6652:7112" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="6753:7086" ph="{...}" />
+                <marker date="1529876899715" expanded="true" signature="7322:7445" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FightConfigurationDTO.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PokemonApi.DTO/FightConfigurationDTO.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+              <folding>
+                <marker date="1529959708514" expanded="true" signature="24:176" ph="{...}" />
+                <marker date="1529959708514" expanded="true" signature="65:174" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CSVReader.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/CSVReader/CSVReader.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+              <folding>
+                <marker date="1529625590666" expanded="false" signature="6:105" ph="..." />
+                <marker date="1529625590666" expanded="true" signature="145:1026" ph="{...}" />
+                <marker date="1529625590666" expanded="true" signature="187:1024" ph="{...}" />
+                <marker date="1529625590666" expanded="true" signature="266:1018" ph="{...}" />
+                <marker date="1529625590666" expanded="true" signature="457:997" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICSVReader.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/CSVReader/ICSVReader.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="7" column="66" lean-forward="true" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+              <folding>
+                <marker date="1529625499451" expanded="false" signature="6:55" ph="..." />
+                <marker date="1529625499451" expanded="true" signature="95:210" ph="{...}" />
+                <marker date="1529625499451" expanded="true" signature="129:208" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PokemonFightTests.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PokemonAPI.Tests/Tests/PokemonFightTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+              <folding>
+                <marker date="1529950414566" expanded="false" signature="6:242" ph="..." />
+                <marker date="1529950414566" expanded="true" signature="277:1823" ph="{...}" />
+                <marker date="1529950414566" expanded="true" signature="314:1821" ph="{...}" />
+                <marker date="1529950414566" expanded="true" signature="383:1193" ph="{...}" />
+                <marker date="1529950414566" expanded="true" signature="514:705" ph="{...}" />
+                <marker date="1529950414566" expanded="true" signature="783:974" ph="{...}" />
+                <marker date="1529950414566" expanded="true" signature="1303:1815" ph="{...}" />
+                <marker date="1529950414566" expanded="true" signature="1566:1776" ph="{...}" />
+                <marker date="1529950414566" expanded="true" signature="1633:1762" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RabbitResponseHandler.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/RabbitResponseHandler/RabbitResponseHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-81">
+              <caret line="18" column="56" lean-forward="false" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+              <folding>
+                <marker date="1529959358046" expanded="false" signature="6:162" ph="..." />
+                <marker date="1529959358046" expanded="true" signature="214:2995" ph="{...}" />
+                <marker date="1529959358046" expanded="true" signature="280:2993" ph="{...}" />
+                <marker date="1529959358046" expanded="true" signature="466:600" ph="{...}" />
+                <marker date="1529959358046" expanded="true" signature="640:852" ph="{...}" />
+                <marker date="1529959358046" expanded="true" signature="932:2987" ph="{...}" />
+                <marker date="1529959358046" expanded="true" signature="1024:2913" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RabbitClient.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PokemonApi.RabbitHandler/RabbitClient.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="15" column="55" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="55" />
+              <folding>
+                <marker date="1529958898409" expanded="false" signature="6:167" ph="..." />
+                <marker date="1529958898409" expanded="true" signature="203:825" ph="{...}" />
+                <marker date="1529958898409" expanded="true" signature="251:742" ph="{...}" />
+                <marker date="1529958898409" expanded="true" signature="322:401" ph="{...}" />
+                <marker date="1529958898409" expanded="true" signature="487:736" ph="{...}" />
+                <marker date="1529958898409" expanded="true" signature="513:629" ph="{...}" />
+                <marker date="1529958898409" expanded="true" signature="647:726" ph="{...}" />
+                <marker date="1529958898409" expanded="true" signature="770:823" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MongoContext.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PokemonApi.Repository.MongoDB/MongoContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="61" lean-forward="false" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+              <folding>
+                <marker date="1529959366594" expanded="false" signature="6:67" ph="..." />
+                <marker date="1529959366594" expanded="true" signature="108:480" ph="{...}" />
+                <marker date="1529959366594" expanded="true" signature="140:478" ph="{...}" />
+                <marker date="1529959366594" expanded="true" signature="228:374" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PokedexController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/Controllers/PokedexController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="8" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+              <folding>
+                <marker date="1529959077061" expanded="true" signature="6:192" ph="..." />
+                <marker date="1529959077061" expanded="true" signature="234:1033" ph="{...}" />
+                <marker date="1529959077061" expanded="true" signature="316:1031" ph="{...}" />
+                <marker date="1529959077061" expanded="true" signature="519:615" ph="{...}" />
+                <marker date="1529959077061" expanded="true" signature="690:843" ph="{...}" />
+                <marker date="1529959077061" expanded="true" signature="943:1024" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="41" column="41" lean-forward="false" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+              <folding>
+                <marker date="1529880559206" expanded="false" signature="6:377" ph="..." />
+                <marker date="1529880559206" expanded="true" signature="408:2465" ph="{...}" />
+                <marker date="1529880559206" expanded="true" signature="435:2463" ph="{...}" />
+                <marker date="1529880559206" expanded="true" signature="494:557" ph="{...}" />
+                <marker date="1529880559206" expanded="true" signature="780:1856" ph="{...}" />
+                <marker date="1529880559206" expanded="true" signature="1307:1844" ph="{...}" />
+                <marker date="1529880559206" expanded="true" signature="1382:1828" ph="{...}" />
+                <marker date="1529880559206" expanded="true" signature="1585:1810" ph="{...}" />
+                <marker date="1529880559206" expanded="true" signature="2084:2457" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/899ABC88-C3F1-4C7D-B7BA-444AD3BDFC76/66/a9eb92c5/Activator.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ApplicationService/BattleModule/BattleService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApplicationService/PokedexModule/PokedexService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApplicationService/PokedexModule/IPokedexService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApplicationService/BattleModule/IBattleService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.RabbitHandler/RabbitClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.RabbitHandler/IRabbitClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.DataApi/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.DataApi/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonAPI.Tests/Mocks/ServiceMocks/PokedexServiceMock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonAPI.Tests/Tests/PokemonFightTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.DTO/BaseRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.DTO/BaseResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.DataApi/ApplicationService/PokemonDataService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.DataApi/Controllers/PokedexController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi/Controllers/PokemonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/899ABC88-C3F1-4C7D-B7BA-444AD3BDFC76/12/4721e23b/Task.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/586B2B47-C554-4D45-9035-CD3AC7ABD8A8/da/bf98058a/RabbitBus.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.Repository.MongoDB/Entities/Pokemon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.Repository.MongoDB/PokedexModule/PokemonRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.Repository.MongoDB/MongoContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.DataApi/RabbitResponseHandler/RabbitResponseHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/899ABC88-C3F1-4C7D-B7BA-444AD3BDFC76/27/e15c06eb/ExecutionContextSwitcher.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B0C6B76A-E654-4F14-A60B-867B6F0BB788/d0/f6f9249c/ConfigureBuilder.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.Repository.MongoDB/PokedexModule/IPokemonRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.DTO/PokemonModelDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.DataApi/MappingProfiles.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.DTO/FightResponseDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi/Controllers/BattleController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BattleService/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/899ABC88-C3F1-4C7D-B7BA-444AD3BDFC76/4f/977b6b8d/AsyncTaskMethodBuilder.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/899ABC88-C3F1-4C7D-B7BA-444AD3BDFC76/83/2f8bbcd6/Int32.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.DataApi/CSVReader/CSVReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/899ABC88-C3F1-4C7D-B7BA-444AD3BDFC76/86/dfed651c/Thread.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.DataApi/CSVReader/ICSVReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.DataApi/ApplicationService/IPokemonDataService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BattleService/BattleService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokemonApi.DTO/FightConfigurationDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A5E22F3C-E152-41DF-90CF-F6E2D79A297C/b8/2ded8279/Lookup`2.cs" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/CacheHandler/PokemonData.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/CacheHandler/PokemonDataServiceService.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/CacheHandler/IPokemonData.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/CacheHandler/PokemonDataService.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.Repository.MongoDB/Class1.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DTO/PokemonModelDTO.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.Repository.MongoDB/Entities/Pokemon.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.Repository.MongoDB/PokemonRepository.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.Repository.MongoDB/PokedexModule/PokemonRepository.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.Repository.MongoDB/PokedexModule/IPokemonRepository.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/Controllers/CacheController.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/ApplicationService/IPokemonDataService.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/MappingProfiles.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/ApplicationService/PokemonDataService.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/RabbitClient/IRabbitClient.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/RabbitResponceHandler/RabbitResponseHandler.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/RabbitHelper/RabbitListenersRegistrator.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/RequestHandler/RequestHandler.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/RequestHandler/IRequestHandler.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/RabbitClient/RabbitClient.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DTO/BaseRequest.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.RabbitHandler/IRabbitClient.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi/Controllers/PokedexController.cs" />
+        <option value="$PROJECT_DIR$/BattleService/Class1.cs" />
+        <option value="$PROJECT_DIR$/BattleService/BattleService.cs" />
+        <option value="$PROJECT_DIR$/ApplicationService/Class1.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DTO/BaseResponse.cs" />
+        <option value="$PROJECT_DIR$/ApplicationService/PokedexModule/PokedexService.cs" />
+        <option value="$PROJECT_DIR$/ApplicationService/PokedexModule/IPokedexService.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/Startup.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi/Startup.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DTO/FightResponseDTO.cs" />
+        <option value="$PROJECT_DIR$/ApplicationService/BattleModule/IBattleService.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi/Controllers/BaseController.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi/Controllers/PokemonController.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi/Controllers/BattleController.cs" />
+        <option value="$PROJECT_DIR$/PokemonAPI.Tests/ServiceCollectionsContainer.cs" />
+        <option value="$PROJECT_DIR$/PokemonAPI.Tests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/PokemonAPI.Tests/Mocks/Mocks.cs" />
+        <option value="$PROJECT_DIR$/PokemonAPI.Tests/Mocks/ServiceMocks/Mocks.cs" />
+        <option value="$PROJECT_DIR$/PokemonAPI.Tests/Mocks/ServiceMocks/PokedexServiceMock.cs" />
+        <option value="$PROJECT_DIR$/ApplicationService/BattleModule/BattleService.cs" />
+        <option value="$PROJECT_DIR$/PokemonAPI.Tests/Tests/PokemonFightTests.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.RabbitHandler/RabbitClient.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/Controllers/PokedexController.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/RabbitResponseHandler/RabbitResponseHandler.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.Repository.MongoDB/MongoContext.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DTO/FightConfigurationDTO.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/CSVReader/CSVReader.cs" />
+        <option value="$PROJECT_DIR$/PokemonApi.DataApi/CSVReader/ICSVReader.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PokemonApi (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PokemonApi (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ApplicationService" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PokemonApi (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PokemonApi" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PokemonApi (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PokemonApi.DataApi" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PokemonApi (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PokemonApi.DataApi" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ApplicationService" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PokemonApi (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PokemonApi.DataApi" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PokemonApi (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PokemonApi.DataApi" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CSVReader" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PokemonApi (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PokemonApi.DataApi" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="RabbitResponseHandler" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PokemonApi (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PokemonApi.DTO" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PokemonApi (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PokemonApi.RabbitHandler" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PokemonApi (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PokemonApi.Repository.MongoDB" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PokemonApi (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PokemonAPI.Tests" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PokemonApi (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PokemonAPI.Tests" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Tests" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="XML&#10;C++" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.PokemonApi.DataApi">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PokemonApi/bin/Debug/netcoreapp2.0/PokemonApi.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PokemonApi" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PokemonApi/PokemonApi.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+    <configuration name="PokemonApi.DataApi" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PokemonApi.DataApi/bin/Debug/netcoreapp2.0/PokemonApi.DataApi.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PokemonApi.DataApi" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_URLS" value="http://localhost:5001" />
+      </envs>
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PokemonApi.DataApi/PokemonApi.DataApi.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.PokemonApi.DataApi" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.PokemonApi.DataApi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32b15f46-d0a1-45e0-b7bf-e272c70213f6" name="Default" comment="" />
+      <created>1529614238724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529614238724</updated>
+      <workItem from="1529614247149" duration="73659000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1529775046054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529775046055</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73659000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.502442" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21306472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.497558" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39918116" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21306472" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39918116" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/PokemonApi.DataApi/Controllers/PokedexController.cs</url>
+          <line>26</line>
+          <properties documentPath="$PROJECT_DIR$/PokemonApi.DataApi/Controllers/CacheController.cs" initialLine="40">
+            <startOffsets>
+              <startOffset value="713" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="777" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/PokemonApi.Repository.MongoDB/PokedexModule/PokemonRepository.cs</url>
+          <line>26</line>
+          <properties documentPath="$PROJECT_DIR$/PokemonApi.Repository.MongoDB/PokedexModule/PokemonRepository.cs" initialLine="26">
+            <startOffsets>
+              <startOffset value="734" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="786" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/PokemonApi.RabbitHandler/RabbitClient.cs</url>
+          <line>25</line>
+          <properties documentPath="$PROJECT_DIR$/PokemonApi.RabbitHandler/RabbitClient.cs" initialLine="49">
+            <startOffsets>
+              <startOffset value="660" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="661" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/PokemonAPI.Tests/Tests/PokemonFightTests.cs</url>
+          <line>20</line>
+          <properties documentPath="$PROJECT_DIR$/PokemonAPI.Tests/Tests/PokemonFightTests.cs" initialLine="15">
+            <startOffsets>
+              <startOffset value="464" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="706" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/PokemonAPI.Tests/Tests/PokemonFightTests.cs</url>
+          <line>17</line>
+          <properties documentPath="$PROJECT_DIR$/PokemonAPI.Tests/Tests/PokemonFightTests.cs" initialLine="16">
+            <startOffsets>
+              <startOffset value="392" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="393" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/PokemonApi.DataApi/Controllers/PokedexController.cs</url>
+          <line>25</line>
+          <properties documentPath="$PROJECT_DIR$/PokemonApi.DataApi/Controllers/PokedexController.cs" initialLine="25">
+            <startOffsets>
+              <startOffset value="699" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="700" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="64" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PokemonApi.Repository.MongoDB/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.Repository.MongoDB/Entities/Pokemon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding>
+            <marker date="1529635336410" expanded="true" signature="6:64" ph="..." />
+            <marker date="1529635336410" expanded="true" signature="114:699" ph="{...}" />
+            <marker date="1529635336410" expanded="true" signature="141:697" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/899ABC88-C3F1-4C7D-B7BA-444AD3BDFC76/4f/977b6b8d/AsyncTaskMethodBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/899ABC88-C3F1-4C7D-B7BA-444AD3BDFC76/86/dfed651c/Thread.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="174" column="8" lean-forward="false" selection-start-line="174" selection-start-column="8" selection-end-line="174" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.Repository.MongoDB/PokedexModule/PokemonRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="43" column="97" lean-forward="false" selection-start-line="43" selection-start-column="97" selection-end-line="43" selection-end-column="97" />
+          <folding>
+            <marker date="1529760344148" expanded="false" signature="6:196" ph="..." />
+            <marker date="1529760344148" expanded="true" signature="237:2417" ph="{...}" />
+            <marker date="1529760344148" expanded="true" signature="295:2415" ph="{...}" />
+            <marker date="1529760344148" expanded="true" signature="415:477" ph="{...}" />
+            <marker date="1529760344148" expanded="true" signature="547:652" ph="{...}" />
+            <marker date="1529760344148" expanded="true" signature="711:796" ph="{...}" />
+            <marker date="1529760344148" expanded="true" signature="852:1015" ph="{...}" />
+            <marker date="1529760344148" expanded="true" signature="1088:1258" ph="{...}" />
+            <marker date="1529760344148" expanded="true" signature="1359:1565" ph="{...}" />
+            <marker date="1529760344148" expanded="true" signature="1646:1894" ph="{...}" />
+            <marker date="1529760344148" expanded="true" signature="1991:2200" ph="{...}" />
+            <marker date="1529760344148" expanded="true" signature="2247:2400" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.Repository.MongoDB/PokedexModule/IPokemonRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="77" lean-forward="false" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
+          <folding>
+            <marker date="1529760344013" expanded="false" signature="6:109" ph="..." />
+            <marker date="1529760344013" expanded="true" signature="150:655" ph="{...}" />
+            <marker date="1529760344013" expanded="true" signature="192:653" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A5E22F3C-E152-41DF-90CF-F6E2D79A297C/b8/2ded8279/Lookup`2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/ApplicationService/IPokemonDataService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <marker date="1529876827583" expanded="true" signature="6:85" ph="..." />
+            <marker date="1529876827583" expanded="true" signature="128:759" ph="{...}" />
+            <marker date="1529876827583" expanded="true" signature="171:757" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/899ABC88-C3F1-4C7D-B7BA-444AD3BDFC76/66/a9eb92c5/Activator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="68" column="6" lean-forward="false" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/MappingProfiles.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+          <folding>
+            <marker date="1529842894245" expanded="false" signature="6:119" ph="..." />
+            <marker date="1529842894245" expanded="true" signature="149:535" ph="{...}" />
+            <marker date="1529842894245" expanded="true" signature="194:533" ph="{...}" />
+            <marker date="1529842894245" expanded="true" signature="233:527" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/899ABC88-C3F1-4C7D-B7BA-444AD3BDFC76/12/4721e23b/Task.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="1112" column="10" lean-forward="false" selection-start-line="1112" selection-start-column="10" selection-end-line="1112" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/RabbitClient/IRabbitClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/586B2B47-C554-4D45-9035-CD3AC7ABD8A8/da/bf98058a/RabbitBus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="178" column="6" lean-forward="false" selection-start-line="178" selection-start-column="6" selection-end-line="178" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/RequestHandler/RequestHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="53" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/RequestHandler/IRequestHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B0C6B76A-E654-4F14-A60B-867B6F0BB788/d0/f6f9249c/ConfigureBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/RabbitHelper/RabbitListenersRegistrator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="7" lean-forward="false" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/RabbitClient/RabbitClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <caret line="30" column="11" lean-forward="false" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DTO/PokemonModelDTO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="26" />
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="27" />
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="27" />
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="24" />
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="21" />
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="25" />
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="26" />
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="24" />
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="24" />
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="24" />
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="29" />
+          <caret line="15" column="29" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <marker date="1529635248588" expanded="true" signature="24:559" ph="{...}" />
+            <marker date="1529635248588" expanded="true" signature="59:557" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DTO/BaseRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <marker date="1529876625857" expanded="true" signature="24:406" ph="{...}" />
+            <marker date="1529876625857" expanded="true" signature="58:162" ph="{...}" />
+            <marker date="1529876625857" expanded="true" signature="195:404" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.RabbitHandler/IRabbitClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="70" lean-forward="false" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+          <folding>
+            <marker date="1529877668711" expanded="false" signature="6:99" ph="..." />
+            <marker date="1529877668711" expanded="true" signature="132:254" ph="{...}" />
+            <marker date="1529877668711" expanded="true" signature="169:252" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleService/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1529878930209" expanded="true" signature="38:78" ph="{...}" />
+            <marker date="1529878930209" expanded="true" signature="64:76" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleService/BattleService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <marker date="1529879182411" expanded="true" signature="46:230" ph="{...}" />
+            <marker date="1529879182411" expanded="true" signature="79:228" ph="{...}" />
+            <marker date="1529879182411" expanded="true" signature="189:222" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApplicationService/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DTO/BaseResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <marker date="1529880559188" expanded="true" signature="24:195" ph="{...}" />
+            <marker date="1529880559188" expanded="true" signature="59:193" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApplicationService/PokedexModule/IPokedexService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <marker date="1529880559199" expanded="false" signature="6:55" ph="..." />
+            <marker date="1529880559199" expanded="true" signature="99:594" ph="{...}" />
+            <marker date="1529880559199" expanded="true" signature="138:592" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi/Controllers/BaseController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi/Controllers/PokemonController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="73" column="8" lean-forward="false" selection-start-line="73" selection-start-column="8" selection-end-line="95" selection-end-column="18" />
+          <folding>
+            <marker date="1529883165899" expanded="false" signature="6:242" ph="..." />
+            <marker date="1529883165899" expanded="true" signature="276:2690" ph="{...}" />
+            <marker date="1529883165899" expanded="true" signature="358:2688" ph="{...}" />
+            <marker date="1529883165899" expanded="true" signature="488:554" ph="{...}" />
+            <marker date="1529883165899" expanded="true" signature="656:745" ph="{...}" />
+            <marker date="1529883165899" expanded="true" signature="862:952" ph="{...}" />
+            <marker date="1529883165899" expanded="true" signature="1091:1179" ph="{...}" />
+            <marker date="1529883165899" expanded="true" signature="1318:1406" ph="{...}" />
+            <marker date="1529883165899" expanded="true" signature="1578:1684" ph="{...}" />
+            <marker date="1529883165899" expanded="true" signature="1813:1899" ph="{...}" />
+            <marker date="1529883165899" expanded="true" signature="2027:2117" ph="{...}" />
+            <marker date="1529883165899" expanded="true" signature="2127:2682" ph="Private methods" />
+            <marker date="1529883165899" expanded="true" signature="2213:2662" ph="{...}" />
+            <marker date="1529883165899" expanded="true" signature="2239:2419" ph="{...}" />
+            <marker date="1529883165899" expanded="true" signature="2313:2404" ph="{...}" />
+            <marker date="1529883165899" expanded="true" signature="2459:2652" ph="{...}" />
+            <marker date="1529883165899" expanded="true" signature="2533:2637" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi/Controllers/BattleController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <marker date="1529883165894" expanded="true" signature="6:192" ph="..." />
+            <marker date="1529883165894" expanded="true" signature="226:1292" ph="{...}" />
+            <marker date="1529883165894" expanded="true" signature="275:1290" ph="{...}" />
+            <marker date="1529883165894" expanded="true" signature="400:464" ph="{...}" />
+            <marker date="1529883165894" expanded="true" signature="617:711" ph="{...}" />
+            <marker date="1529883165894" expanded="true" signature="729:1284" ph="Private methods" />
+            <marker date="1529883165894" expanded="true" signature="815:1264" ph="{...}" />
+            <marker date="1529883165894" expanded="true" signature="841:1021" ph="{...}" />
+            <marker date="1529883165894" expanded="true" signature="915:1006" ph="{...}" />
+            <marker date="1529883165894" expanded="true" signature="1061:1254" ph="{...}" />
+            <marker date="1529883165894" expanded="true" signature="1135:1239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApplicationService/BattleModule/IBattleService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="83" lean-forward="false" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
+          <folding>
+            <marker date="1529882942760" expanded="true" signature="64:200" ph="{...}" />
+            <marker date="1529882942760" expanded="true" signature="102:198" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="47" />
+          <folding>
+            <marker date="1529880559219" expanded="true" signature="6:382" ph="..." />
+            <marker date="1529880559219" expanded="true" signature="404:2096" ph="{...}" />
+            <marker date="1529880559219" expanded="true" signature="431:2094" ph="{...}" />
+            <marker date="1529880559219" expanded="true" signature="490:553" ph="{...}" />
+            <marker date="1529880559219" expanded="true" signature="776:1654" ph="{...}" />
+            <marker date="1529880559219" expanded="true" signature="1106:1642" ph="{...}" />
+            <marker date="1529880559219" expanded="true" signature="1181:1626" ph="{...}" />
+            <marker date="1529880559219" expanded="true" signature="1383:1608" ph="{...}" />
+            <marker date="1529880559219" expanded="true" signature="1862:2088" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonAPI.Tests/ServiceCollectionsContainer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonAPI.Tests/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DTO/FightResponseDTO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <marker date="1529882942628" expanded="true" signature="59:368" ph="{...}" />
+            <marker date="1529882942628" expanded="true" signature="95:276" ph="{...}" />
+            <marker date="1529882942628" expanded="true" signature="303:366" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApplicationService/PokedexModule/PokedexService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="45" column="55" lean-forward="false" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="55" />
+          <folding>
+            <marker date="1529880559184" expanded="false" signature="6:126" ph="..." />
+            <marker date="1529880559184" expanded="true" signature="170:2952" ph="{...}" />
+            <marker date="1529880559184" expanded="true" signature="222:2950" ph="{...}" />
+            <marker date="1529880559184" expanded="true" signature="341:403" ph="{...}" />
+            <marker date="1529880559184" expanded="true" signature="458:719" ph="{...}" />
+            <marker date="1529880559184" expanded="true" signature="783:1050" ph="{...}" />
+            <marker date="1529880559184" expanded="true" signature="1119:1396" ph="{...}" />
+            <marker date="1529880559184" expanded="true" signature="1465:1742" ph="{...}" />
+            <marker date="1529880559184" expanded="true" signature="1835:2136" ph="{...}" />
+            <marker date="1529880559184" expanded="true" signature="2206:2477" ph="{...}" />
+            <marker date="1529880559184" expanded="true" signature="2541:2809" ph="{...}" />
+            <marker date="1529880559184" expanded="true" signature="2871:2944" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApplicationService/BattleModule/BattleService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="50" lean-forward="false" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding>
+            <marker date="1529945481068" expanded="true" signature="6:109" ph="..." />
+            <marker date="1529945481068" expanded="true" signature="152:3759" ph="{...}" />
+            <marker date="1529945481068" expanded="true" signature="202:3757" ph="{...}" />
+            <marker date="1529945481068" expanded="true" signature="328:394" ph="{...}" />
+            <marker date="1529945481068" expanded="true" signature="485:2008" ph="{...}" />
+            <marker date="1529945481068" expanded="true" signature="883:1035" ph="{...}" />
+            <marker date="1529945481068" expanded="true" signature="1094:1970" ph="{...}" />
+            <marker date="1529945481068" expanded="true" signature="1217:1314" ph="{...}" />
+            <marker date="1529945481068" expanded="true" signature="1380:1477" ph="{...}" />
+            <marker date="1529945481068" expanded="true" signature="1543:1640" ph="{...}" />
+            <marker date="1529945481068" expanded="true" signature="1706:1803" ph="{...}" />
+            <marker date="1529945481068" expanded="false" signature="2018:3751" ph="Private methods" />
+            <marker date="1529945481068" expanded="true" signature="2185:2546" ph="{...}" />
+            <marker date="1529945481068" expanded="true" signature="2232:2352" ph="{...}" />
+            <marker date="1529945481068" expanded="true" signature="2391:2510" ph="{...}" />
+            <marker date="1529945481068" expanded="true" signature="2656:3158" ph="{...}" />
+            <marker date="1529945481068" expanded="true" signature="3262:3391" ph="{...}" />
+            <marker date="1529945481068" expanded="true" signature="3485:3731" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonAPI.Tests/Mocks/ServiceMocks/PokedexServiceMock.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="52" lean-forward="false" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+          <folding>
+            <marker date="1529887804992" expanded="false" signature="6:150" ph="..." />
+            <marker date="1529887804992" expanded="true" signature="184:701" ph="{...}" />
+            <marker date="1529887804992" expanded="true" signature="222:699" ph="{...}" />
+            <marker date="1529887804992" expanded="true" signature="316:693" ph="{...}" />
+            <marker date="1529887804992" expanded="true" signature="441:636" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <marker date="1529618999148" expanded="false" signature="6:255" ph="..." />
+            <marker date="1529618999148" expanded="true" signature="285:606" ph="{...}" />
+            <marker date="1529618999148" expanded="true" signature="312:604" ph="{...}" />
+            <marker date="1529618999148" expanded="true" signature="365:423" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="41" column="41" lean-forward="false" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+          <folding>
+            <marker date="1529880559206" expanded="false" signature="6:377" ph="..." />
+            <marker date="1529880559206" expanded="true" signature="408:2465" ph="{...}" />
+            <marker date="1529880559206" expanded="true" signature="435:2463" ph="{...}" />
+            <marker date="1529880559206" expanded="true" signature="494:557" ph="{...}" />
+            <marker date="1529880559206" expanded="true" signature="780:1856" ph="{...}" />
+            <marker date="1529880559206" expanded="true" signature="1307:1844" ph="{...}" />
+            <marker date="1529880559206" expanded="true" signature="1382:1828" ph="{...}" />
+            <marker date="1529880559206" expanded="true" signature="1585:1810" ph="{...}" />
+            <marker date="1529880559206" expanded="true" signature="2084:2457" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.RabbitHandler/RabbitClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="55" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <marker date="1529958898409" expanded="false" signature="6:167" ph="..." />
+            <marker date="1529958898409" expanded="true" signature="203:825" ph="{...}" />
+            <marker date="1529958898409" expanded="true" signature="251:742" ph="{...}" />
+            <marker date="1529958898409" expanded="true" signature="322:401" ph="{...}" />
+            <marker date="1529958898409" expanded="true" signature="487:736" ph="{...}" />
+            <marker date="1529958898409" expanded="true" signature="513:629" ph="{...}" />
+            <marker date="1529958898409" expanded="true" signature="647:726" ph="{...}" />
+            <marker date="1529958898409" expanded="true" signature="770:823" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.Repository.MongoDB/MongoContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="61" lean-forward="false" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+          <folding>
+            <marker date="1529959366594" expanded="false" signature="6:67" ph="..." />
+            <marker date="1529959366594" expanded="true" signature="108:480" ph="{...}" />
+            <marker date="1529959366594" expanded="true" signature="140:478" ph="{...}" />
+            <marker date="1529959366594" expanded="true" signature="228:374" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DTO/FightConfigurationDTO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding>
+            <marker date="1529959708514" expanded="true" signature="24:176" ph="{...}" />
+            <marker date="1529959708514" expanded="true" signature="65:174" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/ApplicationService/PokemonDataService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+          <folding>
+            <marker date="1529876899715" expanded="false" signature="6:219" ph="..." />
+            <marker date="1529876899715" expanded="true" signature="262:7620" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="322:7618" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="523:625" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="697:873" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="952:1307" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="1401:1607" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="1685:1870" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="1956:2142" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="2244:2440" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="2522:5307" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="2714:5259" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="5392:5973" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="5585:5877" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="5656:5860" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="6073:7612" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="6353:7576" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="6540:7562" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="6652:7112" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="6753:7086" ph="{...}" />
+            <marker date="1529876899715" expanded="true" signature="7322:7445" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/Controllers/PokedexController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="8" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding>
+            <marker date="1529959077061" expanded="true" signature="6:192" ph="..." />
+            <marker date="1529959077061" expanded="true" signature="234:1033" ph="{...}" />
+            <marker date="1529959077061" expanded="true" signature="316:1031" ph="{...}" />
+            <marker date="1529959077061" expanded="true" signature="519:615" ph="{...}" />
+            <marker date="1529959077061" expanded="true" signature="690:843" ph="{...}" />
+            <marker date="1529959077061" expanded="true" signature="943:1024" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/CSVReader/CSVReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <marker date="1529625590666" expanded="false" signature="6:105" ph="..." />
+            <marker date="1529625590666" expanded="true" signature="145:1026" ph="{...}" />
+            <marker date="1529625590666" expanded="true" signature="187:1024" ph="{...}" />
+            <marker date="1529625590666" expanded="true" signature="266:1018" ph="{...}" />
+            <marker date="1529625590666" expanded="true" signature="457:997" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/CSVReader/ICSVReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="66" lean-forward="true" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+          <folding>
+            <marker date="1529625499451" expanded="false" signature="6:55" ph="..." />
+            <marker date="1529625499451" expanded="true" signature="95:210" ph="{...}" />
+            <marker date="1529625499451" expanded="true" signature="129:208" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonAPI.Tests/Tests/PokemonFightTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+          <folding>
+            <marker date="1529950414566" expanded="false" signature="6:242" ph="..." />
+            <marker date="1529950414566" expanded="true" signature="277:1823" ph="{...}" />
+            <marker date="1529950414566" expanded="true" signature="314:1821" ph="{...}" />
+            <marker date="1529950414566" expanded="true" signature="383:1193" ph="{...}" />
+            <marker date="1529950414566" expanded="true" signature="514:705" ph="{...}" />
+            <marker date="1529950414566" expanded="true" signature="783:974" ph="{...}" />
+            <marker date="1529950414566" expanded="true" signature="1303:1815" ph="{...}" />
+            <marker date="1529950414566" expanded="true" signature="1566:1776" ph="{...}" />
+            <marker date="1529950414566" expanded="true" signature="1633:1762" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokemonApi.DataApi/RabbitResponseHandler/RabbitResponseHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="18" column="56" lean-forward="false" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+          <folding>
+            <marker date="1529959358046" expanded="false" signature="6:162" ph="..." />
+            <marker date="1529959358046" expanded="true" signature="214:2995" ph="{...}" />
+            <marker date="1529959358046" expanded="true" signature="280:2993" ph="{...}" />
+            <marker date="1529959358046" expanded="true" signature="466:600" ph="{...}" />
+            <marker date="1529959358046" expanded="true" signature="640:852" ph="{...}" />
+            <marker date="1529959358046" expanded="true" signature="932:2987" ph="{...}" />
+            <marker date="1529959358046" expanded="true" signature="1024:2913" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

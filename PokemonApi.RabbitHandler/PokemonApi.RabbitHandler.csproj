@@ -3,6 +3,12 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="RabbitMQ.Client" Version="5.1.0" />
+    <PackageReference Include="EasyNetQ" Version="3.1.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PokemonApi.DTO\PokemonApi.DTO.csproj">
+      <Project>{0E94B7E5-986C-4F78-91DC-465F68846488}</Project>
+      <Name>PokemonApi.DTO</Name>
+    </ProjectReference>
   </ItemGroup>
 </Project>

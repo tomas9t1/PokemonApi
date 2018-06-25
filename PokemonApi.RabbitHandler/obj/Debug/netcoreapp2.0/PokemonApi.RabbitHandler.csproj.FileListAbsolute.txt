@@ -7,3 +7,5 @@
 /Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/obj/Debug/netcoreapp2.0/PokemonApi.RabbitHandler.AssemblyInfo.cs
 /Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/obj/Debug/netcoreapp2.0/PokemonApi.RabbitHandler.dll
 /Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/obj/Debug/netcoreapp2.0/PokemonApi.RabbitHandler.pdb
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/bin/Debug/netcoreapp2.0/PokemonApi.DTO.dll
+/Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/bin/Debug/netcoreapp2.0/PokemonApi.DTO.pdb

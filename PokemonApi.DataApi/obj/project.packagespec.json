@@ -18,6 +18,9 @@
           "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/PokemonApi.DTO.csproj": {
             "projectPath": "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.DTO/PokemonApi.DTO.csproj"
           },
+          "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/PokemonApi.RabbitHandler.csproj": {
+            "projectPath": "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.RabbitHandler/PokemonApi.RabbitHandler.csproj"
+          },
           "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.Repository.MongoDB/PokemonApi.Repository.MongoDB.csproj": {
             "projectPath": "/Users/tomas/RiderProjects/PokemonApi/PokemonApi.Repository.MongoDB/PokemonApi.Repository.MongoDB.csproj"
           }
@@ -44,6 +47,10 @@
         "CsvHelper": {
           "target": "Package",
           "version": "[7.1.1, )"
+        },
+        "EasyNetQ": {
+          "target": "Package",
+          "version": "[3.1.0, )"
         },
         "Microsoft.AspNetCore.All": {
           "target": "Package",

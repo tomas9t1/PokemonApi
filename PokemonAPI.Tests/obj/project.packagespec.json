@@ -1,0 +1,71 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/tomas/RiderProjects/PokemonApi/PokemonAPI.Tests/PokemonAPI.Tests.csproj",
+    "projectName": "PokemonAPI.Tests",
+    "projectPath": "/Users/tomas/RiderProjects/PokemonApi/PokemonAPI.Tests/PokemonAPI.Tests.csproj",
+    "outputPath": "/Users/tomas/RiderProjects/PokemonApi/PokemonAPI.Tests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/tomas/RiderProjects/PokemonApi/ApplicationService/ApplicationService.csproj": {
+            "projectPath": "/Users/tomas/RiderProjects/PokemonApi/ApplicationService/ApplicationService.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.5.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "[4.8.3, )"
+        },
+        "NUnit": {
+          "target": "Package",
+          "version": "[3.10.1, )"
+        },
+        "NUnit.Console": {
+          "target": "Package",
+          "version": "[3.8.0, )"
+        },
+        "NUnit.ConsoleRunner": {
+          "target": "Package",
+          "version": "[3.8.0, )"
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.10.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

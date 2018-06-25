@@ -31,7 +31,7 @@ namespace PokemonApi.DataApi.CacheHandler
             var pokemons = await _pokemonRepository.GetAllAsync();
             if (pokemons.Any())
                 await _pokemonRepository.WipeDatabaseAsync();
-            pokemons = pokemonList.Select(x => _mapper.Map<Pokemon>(x)).ToList();
+            pokemons = pokemonList.Select(x => _mapper.Map<Repository.MongoDB.Entities.Pokemon>(x)).ToList();
             await _pokemonRepository.InsertManyAsync(pokemons);
         }
 
@@ -53,7 +53,7 @@ namespace PokemonApi.DataApi.CacheHandler
             return pokemonList.Select(x => _mapper.Map<PokemonModelDTO>(x)).ToList();
         }
 
-        public async Task<List<PokemonModelDTO>> GetPokemonsByMulyipleTypesAsync(List<string> types)
+        public async Task<List<PokemonModelDTO>> GetPokemonsByMultipleTypesAsync(List<string> types)
         {
             var pokemonList = await _pokemonRepository.GetAllByMultipleTypesAsync(types);
             return pokemonList.Select(x => _mapper.Map<PokemonModelDTO>(x)).ToList();
@@ -109,7 +109,7 @@ namespace PokemonApi.DataApi.CacheHandler
         public async Task<List<PokemonModelDTO>> GetPokemonsWithEqualHeadersAsync()
         {
             var pokemonList = await _pokemonRepository.GetAllAsync();
-            var resultList = new List<Pokemon>();
+            var resultList = new List<Repository.MongoDB.Entities.Pokemon>();
             if (pokemonList.Any())
             {
                 Parallel.ForEach(pokemonList, pokemon =>
@@ -123,7 +123,7 @@ namespace PokemonApi.DataApi.CacheHandler
             return pokemonList.Select(x => _mapper.Map<PokemonModelDTO>(x)).ToList();
         }
 
-        private bool ArePropertiesOfObjectEqualOrMore(Pokemon pokemon)
+        private bool ArePropertiesOfObjectEqualOrMore(Repository.MongoDB.Entities.Pokemon pokemon)
         {
             var objectType = pokemon.GetType();
             var properties = objectType.GetProperties();

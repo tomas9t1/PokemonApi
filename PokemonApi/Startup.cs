@@ -1,14 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using ApplicationService.BattleModule;
+using ApplicationService.PokedexModule;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
+using Pokemon.RabbitHandler;
+using PokemonApi.RabbitHandler;
 using Swashbuckle.AspNetCore.Swagger;
 
 namespace PokemonApi
@@ -26,6 +24,12 @@ namespace PokemonApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+
+            services.AddScoped<IPokedexService, PokedexService>();
+            services.AddScoped<IBattleService, BattleService>();
+
+            var rabbitClient = new RabbitClient();
+            services.AddSingleton<IRabbitClient>(rabbitClient);
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new Info
@@ -33,8 +37,12 @@ namespace PokemonApi
                     Version = "v1",
                     Title = "Pokemon API",
                     Description = "This is Pokemon API",
-                    TermsOfService = "None",
-                    Contact = new Contact() { Name = "Tomas Labanausas", Email = "labanauskastomas@yahoo.com", Url = "https://www.linkedin.com/in/tomas-labanauskas-b95949101" }
+                    Contact = new Contact()
+                    {
+                        Name = "Tomas Labanauskas",
+                        Email = "labanauskastomas@yahoo.com",
+                        Url = "https://www.linkedin.com/in/tomas-labanauskas-b95949101"
+                    }
                 });
             });
         }
@@ -45,12 +53,7 @@ namespace PokemonApi
             app.UseDeveloperExceptionPage();
             app.UseMvc();
             app.UseSwagger();
-            app.UseSwaggerUI(c =>
-            {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Pokemon API V1");
-            });
-            
-            
+            app.UseSwaggerUI(c => { c.SwaggerEndpoint("/swagger/v1/swagger.json", "Pokemon API V1"); });
         }
     }
 }

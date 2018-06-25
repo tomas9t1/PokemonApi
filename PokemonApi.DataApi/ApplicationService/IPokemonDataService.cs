@@ -11,7 +11,7 @@ namespace PokemonApi.DataApi.CacheHandler
         Task<List<PokemonModelDTO>> SearchPokemonByNameAsync(string searchText);
         Task<List<PokemonModelDTO>> GetLegendaryPokemonsAsync();
         Task<List<PokemonModelDTO>> GetPokemonsByTypeAsync(string type);
-        Task<List<PokemonModelDTO>> GetPokemonsByMulyipleTypesAsync(List<string> types);
+        Task<List<PokemonModelDTO>> GetPokemonsByMultipleTypesAsync(List<string> types);
         Task<Dictionary<string, List<string>>> GetAllHeadersAsync();
         Task<List<PokemonModelDTO>> GetPokemonsWithEqualHeadersAsync();
     }

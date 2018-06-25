@@ -1,17 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using AutoMapper;
+﻿using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
 using PokemonApi.DataApi.CacheHandler;
 using PokemonApi.DataApi.CSVReader;
+using PokemonApi.DataApi.RabbitResponseHandler;
 using PokemonApi.Repository.MongoDB;
 using Swashbuckle.AspNetCore.Swagger;
 
@@ -32,6 +26,7 @@ namespace PokemonApi.DataApi
         {
             services.AddMemoryCache();
             services.AddAutoMapper();
+            services.AddSingleton<IRabbitResponseHandler, RabbitResponseHandler.RabbitResponseHandler>();
             services.AddScoped<MongoContext>();
             services.AddScoped<IPokemonDataService, PokemonDataService>();
             services.AddScoped<IPokemonRepository, PokemonRepository>();
@@ -44,22 +39,25 @@ namespace PokemonApi.DataApi
                     Version = "v1",
                     Title = "Data API",
                     Description = "This is Pokemon Data API.",
-                    TermsOfService = "None",
-                    Contact = new Contact() { Name = "Tomas Labanausas", Email = "labanauskastomas@yahoo.com", Url = "https://www.linkedin.com/in/tomas-labanauskas-b95949101" }
+                    Contact = new Contact
+                    {
+                        Name = "Tomas Labanauskas",
+                        Email = "labanauskastomas@yahoo.com",
+                        Url = "https://www.linkedin.com/in/tomas-labanauskas-b95949101"
+                    }
                 });
             });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, IPokemonDataService pokemonDataService)
         {
             app.UseDeveloperExceptionPage();
             app.UseMvc();
             app.UseSwagger();
-            app.UseSwaggerUI(c =>
-            {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Pokemon Data API");
-            });
+            var rabbitHelper = new RabbitResponseHandler.RabbitResponseHandler(pokemonDataService);
+            rabbitHelper.InitiateListener();
+            app.UseSwaggerUI(c => { c.SwaggerEndpoint("/swagger/v1/swagger.json", "Pokemon Data API"); });
         }
     }
 }

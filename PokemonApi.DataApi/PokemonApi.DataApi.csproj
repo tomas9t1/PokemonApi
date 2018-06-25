@@ -9,6 +9,7 @@
     <PackageReference Include="AutoMapper" Version="7.0.1" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="4.0.1" />
     <PackageReference Include="CsvHelper" Version="7.1.1" />
+    <PackageReference Include="EasyNetQ" Version="3.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
     <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.1.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="2.5.0" />
@@ -20,6 +21,10 @@
     <ProjectReference Include="..\PokemonApi.DTO\PokemonApi.DTO.csproj">
       <Project>{0E94B7E5-986C-4F78-91DC-465F68846488}</Project>
       <Name>PokemonApi.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PokemonApi.RabbitHandler\PokemonApi.RabbitHandler.csproj">
+      <Project>{2E06B7FA-8F5F-45A6-8970-355C3BE38083}</Project>
+      <Name>PokemonApi.RabbitHandler</Name>
     </ProjectReference>
     <ProjectReference Include="..\PokemonApi.Repository.MongoDB\PokemonApi.Repository.MongoDB.csproj">
       <Project>{6387C278-F565-461F-9471-990132594EEA}</Project>

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>ApplicationService</AssemblyName>
+    <RootNamespace>ApplicationService</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PokemonApi.DTO\PokemonApi.DTO.csproj">
+      <Project>{0E94B7E5-986C-4F78-91DC-465F68846488}</Project>
+      <Name>PokemonApi.DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>
